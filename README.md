@@ -1,2 +1,2 @@
 # PatrickStrzelczyk_CV
-📄 [View My CV](PatrickStrzelczyk_CV.pdf)
+[View My CV](PatrickStrzelczyk_CV.pdf)
